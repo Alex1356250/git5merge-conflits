@@ -1,3 +1,3 @@
-# git5merge-conflits
+LOCAL
 quest5
 C'est la quête n°5!! well done!
